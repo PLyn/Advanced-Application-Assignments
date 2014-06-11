@@ -1,0 +1,5 @@
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

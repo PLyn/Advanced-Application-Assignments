@@ -1,0 +1,6 @@
+c:\users\peter\documents\visual studio 2013\Projects\sortingApp\sortingApp\bin\Debug\sortingApp.exe.config
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\sortingApp\bin\Debug\sortingApp.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\sortingApp\bin\Debug\sortingApp.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\sortingApp\obj\Debug\sortingApp.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\sortingApp\obj\Debug\sortingApp.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\sortingApp\obj\Debug\sortingApp.pdb

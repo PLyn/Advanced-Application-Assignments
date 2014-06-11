@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CSLabDB">
+  <DataContextMoniker Name="/CSLabDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="851fb6c0-a2e0-4f25-a11a-499e3a721fee" absoluteBounds="4.25, 1.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/CSLabDBDataContext/CSLabStock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="047d05e9-b2db-4f61-9660-9dbd0dfacc4f" absoluteBounds="4.265, 2.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

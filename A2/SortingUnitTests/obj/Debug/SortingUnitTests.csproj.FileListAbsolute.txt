@@ -1,0 +1,7 @@
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\bin\Debug\SortingUnitTests.dll
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\bin\Debug\SortingUnitTests.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\bin\Debug\sortingApp.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\bin\Debug\sortingApp.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\obj\Debug\SortingUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\obj\Debug\SortingUnitTests.dll
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\sortingApp\SortingUnitTests\obj\Debug\SortingUnitTests.pdb

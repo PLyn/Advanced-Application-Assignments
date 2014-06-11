@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PerformanceReport>
+  <FunctionSummary>
+    <Function FunctionName="System.Console.Write(string)" NumCalls="10,000" InclusiveElapsedTimePercent="53.90" ExclusiveElapsedTimePercent="53.90" AvgInclusiveElapsedTime="0.12" AvgExclusiveElapsedTime="0.12" ModuleName="mscorlib.dll" />
+    <Function FunctionName="sortingApp.Program.BubbleSort(int32[]&amp;,int32)" NumCalls="1" InclusiveElapsedTimePercent="45.43" ExclusiveElapsedTimePercent="45.43" AvgInclusiveElapsedTime="1,037.73" AvgExclusiveElapsedTime="1,037.73" ModuleName="sortingApp.exe" />
+    <Function FunctionName="System.String.Concat(object,object)" NumCalls="10,000" InclusiveElapsedTimePercent="0.44" ExclusiveElapsedTimePercent="0.44" AvgInclusiveElapsedTime="0.00" AvgExclusiveElapsedTime="0.00" ModuleName="mscorlib.dll" />
+    <Function FunctionName="sortingApp.Program.Main(string[])" NumCalls="1" InclusiveElapsedTimePercent="100.00" ExclusiveElapsedTimePercent="0.18" AvgInclusiveElapsedTime="2,284.30" AvgExclusiveElapsedTime="4.11" ModuleName="sortingApp.exe" />
+    <Function FunctionName="System.Random.Next(int32,int32)" NumCalls="10,000" InclusiveElapsedTimePercent="0.05" ExclusiveElapsedTimePercent="0.05" AvgInclusiveElapsedTime="0.00" AvgExclusiveElapsedTime="0.00" ModuleName="mscorlib.dll" />
+    <Function FunctionName="System.Random..ctor()" NumCalls="1" InclusiveElapsedTimePercent="0.00" ExclusiveElapsedTimePercent="0.00" AvgInclusiveElapsedTime="0.02" AvgExclusiveElapsedTime="0.02" ModuleName="mscorlib.dll" />
+    <Function FunctionName="System.Runtime.CompilerServices.RuntimeHelpers.InitializeArray(class System.Array,valuetype System.RuntimeFieldHandle)" NumCalls="1" InclusiveElapsedTimePercent="0.00" ExclusiveElapsedTimePercent="0.00" AvgInclusiveElapsedTime="0.02" AvgExclusiveElapsedTime="0.02" ModuleName="mscorlib.dll" />
+    <Function FunctionName="System.Console.Read()" NumCalls="1" InclusiveElapsedTimePercent="0.00" ExclusiveElapsedTimePercent="0.00" AvgInclusiveElapsedTime="0.00" AvgExclusiveElapsedTime="0.00" ModuleName="mscorlib.dll" />
+  </FunctionSummary>
+</PerformanceReport>

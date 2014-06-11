@@ -1,0 +1,13 @@
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\MCBank.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\MCBank.exe
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\MCBank.pdb
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\obj\Debug\MCBank.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\obj\Debug\MCBank.frmMain.resources
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\obj\Debug\MCBank.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\obj\Debug\MCBank.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\obj\Debug\MCBank.exe
+c:\users\peter\documents\visual studio 2013\Projects\MCBank\MCBank\obj\Debug\MCBank.pdb
+C:\Users\Peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\Client.dll
+C:\Users\Peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\JNBShare.dll
+C:\Users\Peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\rlm932_x64.dll
+C:\Users\Peter\documents\visual studio 2013\Projects\MCBank\MCBank\bin\Debug\rlm932_x86.dll

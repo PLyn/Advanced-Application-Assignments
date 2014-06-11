@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CSLabDB" Class="CSLabDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=CSLabDB;Integrated Security=True" SettingsObjectName="WindowsFormLINQ.Properties.Settings" SettingsPropertyName="CSLabDBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CSLabStock" Member="CSLabStocks">
+    <Type Name="CSLabStock">
+      <Column Name="NCUTag" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ItemType" Type="System.String" DbType="NChar(25)" CanBeNull="true" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Manufacturer" Type="System.String" DbType="NChar(25)" CanBeNull="true" />
+      <Column Name="Model" Type="System.String" DbType="NChar(25)" CanBeNull="true" />
+      <Column Name="SerialNum" Type="System.String" DbType="NChar(25)" CanBeNull="true" />
+      <Column Name="ServiceTag" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="Location" Type="System.String" DbType="NChar(25)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="Notes" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
