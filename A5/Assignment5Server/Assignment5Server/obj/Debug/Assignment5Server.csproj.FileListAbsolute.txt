@@ -1,0 +1,6 @@
+c:\users\peter\documents\visual studio 2013\Projects\Assignment5Server\Assignment5Server\bin\Debug\Assignment5Server.exe.config
+C:\Users\Peter\documents\visual studio 2013\Projects\Assignment5Server\Assignment5Server\bin\Debug\Assignment5Server.exe
+C:\Users\Peter\documents\visual studio 2013\Projects\Assignment5Server\Assignment5Server\bin\Debug\Assignment5Server.pdb
+C:\Users\Peter\documents\visual studio 2013\Projects\Assignment5Server\Assignment5Server\obj\Debug\Assignment5Server.csprojResolveAssemblyReference.cache
+C:\Users\Peter\documents\visual studio 2013\Projects\Assignment5Server\Assignment5Server\obj\Debug\Assignment5Server.exe
+C:\Users\Peter\documents\visual studio 2013\Projects\Assignment5Server\Assignment5Server\obj\Debug\Assignment5Server.pdb
